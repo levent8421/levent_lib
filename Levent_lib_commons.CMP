@@ -1,0 +1,14 @@
+Component   : WS2812_5050_EMB
+PCB Library : Levent_lib_commons.PcbLib
+Date        : 2021/7/10
+Time        : 0:33:38
+
+
+
+Dimension : 0.264 x 0.255 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Keep Out Layer              0          4        0       0        0
+--------------------------------------------------------------------
+ Total                       0          4        0       0        0
